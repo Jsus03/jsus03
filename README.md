@@ -1,3 +1,3 @@
-# JSUS03 - README for github profile
+# Welcome to my GitHub profile
 
-![Header](./your-header-image-name.png)
+![Header](./banner/jsus03-header-banner.png)
