@@ -4,9 +4,7 @@
 
 ## 💫 About Me
 
-- I'm Jesús Calderón, a junior software developer with experience in frontend and backend development.
-- I'm living in Honduras.
-- Currently I'm working on Grupo Platino.
+I'm Jesús Calderón, a junior software developer with experience in frontend and backend development. I live in Honduras and currently work at Grupo Platino as a .Net and Angular developer.
 
 ## 🌐 Socials
 
