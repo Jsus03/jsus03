@@ -18,6 +18,6 @@ I'm Jesús Calderón, a junior software developer with experience in frontend an
 
 ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jsus03&show_icons=true&theme=radical&hide=stars,issues)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jsus03&theme=radical&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=Jsus03&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 ![image](https://github-readme-activity-graph.vercel.app/graph?username=jsus03&theme=react-dark)
